@@ -22,6 +22,6 @@ The maps have been created using [Minetest Mapper](https://github.com/minetest/m
 
 ## Config
 
-This repository also contains a `minetest.conf` file that was used to run a workshop with 95 participants on an i7-4790 with 24GB of RAM and a 100/100MBit internet connection. The `max_lag` value oscillated between 1 and 5 using this configuration. CPU cores were utilised to about 50% max. Players experienced slight lag at times, but overall, the game was playable.
+This repository also contains a `minetest.conf` file that was used to run a workshop with 95 participants on an i7-4790 with 24GB of RAM and a 100/100MBit internet connection. The `max_lag` value oscillated between 1 and 5 using this configuration. CPU cores were utilised to about 50% max. Players experienced slight lag at times, but overall, the game was playable. The config file has been optimised following advise on the [Minetest Community Forum](https://forum.minetest.net/viewtopic.php?f=10&t=27463&p=403853#p403853).
 
 Please make sure to replace the values for the player, the server name, and the default password with your own values when using this configuration.
